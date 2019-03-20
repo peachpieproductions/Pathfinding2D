@@ -1495,7 +1495,7 @@ CircleCollider2D:
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: 0}
   serializedVersion: 2
-  m_Radius: 1.5
+  m_Radius: 3
 --- !u!1 &1299556883
 GameObject:
   m_ObjectHideFlags: 0
@@ -1901,7 +1901,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   currentLevel: 1
   playerHp: 10
-  playerMoney: 500
+  playerMoney: 50
   gameOver: 0
   turrets:
   - {fileID: 1800890819995174, guid: 3171574da71825242a1680f2ec49e75b, type: 2}
